@@ -32,7 +32,7 @@ Explore the creation of visual content using prompt-based AI models.
 Introduction to running deep learning experiments using the Antigravity framework.
 
 - **Integration:** Antigravity
-- **Source Code:** [GitHub Repository]([https://github.com/ashivashankars/Antigravity-experiments](https://github.com/ashivashankars/Antigravity-experiments/tree/main/todo-app))
+- **Source Code:** [GitHub Repository](https://github.com/ashivashankars/Antigravity-experiments](https://github.com/ashivashankars/Antigravity-experiments/tree/main/todo-app))
 - **Demo Video:** [Watch ToDo Antigravity Video](https://drive.google.com/file/d/1l6oIvhUfOwsb6Xb7Tpf7xW8A37JzY7Vm/view?usp=drive_link)
 - **Focus:** Experiment tracking, configuration, and execution
 
@@ -44,7 +44,7 @@ Build a mobile application using **Flutter**, integrated with the Antigravity fr
 
 - **Framework:** Flutter
 - **Integration:** Antigravity
-- - **Source Code:** [GitHub Repository]([https://github.com/ashivashankars/Antigravity-experiments](https://github.com/ashivashankars/Antigravity-experiments/tree/main/water_tracker))
+- - **Source Code:** [GitHub Repository](https://github.com/ashivashankars/Antigravity-experiments](https://github.com/ashivashankars/Antigravity-experiments/tree/main/water_tracker))
 - **Demo Video:** [Watch Flutter App Demo](https://drive.google.com/file/d/1m6xI9NR6nWCaP248Do8n5brPRHh0yV1D/view?usp=drive_link)
 - **Focus:** Cross-platform deployment and ML-powered mobile applications
 
