@@ -22,7 +22,7 @@ The objective of this repository is to master the fundamentals of deep learning 
 Explore the creation of visual content using prompt-based AI models.
 
 - **Notebook:** [Intro_multimodal_use_cases](https://colab.research.google.com/drive/17v5fcwu-1aptYnJlCklSshagaog09Hgq?usp=sharing)
-- **Platform:** Google Colab
+- **Platform:** [Google Colab](https://colab.research.google.com/drive/17v5fcwu-1aptYnJlCklSshagaog09Hgq?usp=sharing)
 - **Focus:** Prompt engineering and multimodal AI applications
 
 ---
