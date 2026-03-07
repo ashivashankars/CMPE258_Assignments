@@ -49,59 +49,79 @@ The goal is to execute the colabs and then explain what is happening in the cola
 
 📹 Video:
 
-Probability for deep learning colab:
+---
 
-https://drive.google.com/file/d/1modN-zBUEUPV260zY8YE4sRbtPX6w2kB/view?usp=sharing
+### 6. Probability for deep learning colab
+📓 [probability_fundamentals_for_deep_learning](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/probability_fundamentals_for_deep_learning.ipynb)
 
-https://drive.google.com/file/d/1IvAYLgFjivFa8kiUux9-dehVAvtfgA8k/view?usp=sharing
+📹 Video:
 
-Linear algebra for deep learning colab:
+📓 [probability_for_deep_learning](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/probability_for_deep_learning.ipynb)
 
-https://drive.google.com/file/d/10haTffjBa8Sn_gA-L-cint-3YccdA5be/view?usp=sharing
+📹 Video:
+
+---
+
+### 7. Linear algebra for deep learning colab
+📓 [linear_algebra_for_deep_learning](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/linear_algebra_for_deep_learning.ipynb)
+
+📹 Video:
+
+---
+
+### 8. neural_networks_from_scratch
+📓 [neural_networks_from_scratch](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/neural_networks_from_scratch.ipynb)
+
+📹 Video:
+
+---
+
+### 9. Why neural networks work - geometric intuition colab
+📓 [why_deep_learning_works_geometric_intuition](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/why_deep_learning_works_geometric_intuition.ipynb)
+
+📹 Video:
+
+---
+
+### 10. From NumPy to PyTorch: A Deep Learning Journey
+### Master PyTorch from First Principles to Production-Ready Code
+📓 [pytorch_neural_networks_tutorial](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/pytorch_neural_networks_tutorial.ipynb)
+
+📹 Video:
+
+### 11. Advanced pytorch
+📓 [pytorch_advanced_tutorial](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/pytorch_advanced_tutorial.ipynb)
+
+📹 Video:
+
+---
+### 12. From NumPy to TensorFlow & Keras 3: A Complete Deep Learning Journey
+### Master TensorFlow and Keras from First Principles to Production-Ready Code
+📓 [keras_tensorflow_neural_networks_tutorial](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/keras_tensorflow_neural_networks_tutorial.ipynb)
+
+📹 Video:
+
+### 13. Advanced tensorflow colab
+📓 [keras_tensorflow_advanced_tutorial](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/keras_tensorflow_advanced_tutorial.ipynb)
+
+📹 Video:
+
+### 14. Intro to numpy colab
+📓 [numpy_foundations_for_deep_learning](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/numpy_foundations_for_deep_learning.ipynb)
+
+📹 Video:
+
+---
+
+### 15. Jax neural networks colab
+### intro to jax
+📓 [jax_deep_learning_tutorial](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/jax_deep_learning_tutorial.ipynb)
+
+📹 Video:
+
+### 16. advanced jax
+📓 [jax_neural_networks_tutorial](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/jax_neural_networks_tutorial.ipynb)
+
+📹 Video:
 
 
-Colab 1 - neural_networks_from_scratch.ipynb
-https://drive.google.com/file/d/1N-QL_oDsjmadMkP6hfiHGNd6eoPf8Qh3/view?usp=sharing
-
-Why neural networks work - geometric intuition colab:
-
-https://drive.google.com/file/d/1cRaQwPi_cShYTtS9dLuuvzM8GhIh0Lw6/view?usp=sharing
-
-From NumPy to PyTorch: A Deep Learning Journey
-Master PyTorch from First Principles to Production-Ready Code
-
-https://drive.google.com/file/d/1TiTgrCu0uk0QINuBhoHZPf2F78WnVvtT/view?usp=sharing
-
-Advanced pytorch:
-
-https://drive.google.com/file/d/1OSqu9_oLtjueP0m_c75dfZLWyfmp3VXJ/view?usp=sharing
-
-
-From NumPy to TensorFlow & Keras 3: A Complete Deep Learning Journey
-Master TensorFlow and Keras from First Principles to Production-Ready Code
-
-https://drive.google.com/file/d/1AMKhLOJfmKRHaL2uTIA1CAp4BQZjZ8rX/view?usp=sharing
-
-Advanced tensorflow colab:
-
-https://drive.google.com/file/d/1J6fxzA-OLGYFczad68QsTPNoyJClNFi8/view?usp=sharing
-
-
-Intro to numpy colab:
-https://drive.google.com/file/d/15A7A396l89yZM_0trLpIRJibE6NkCtgB/view?usp=sharing
-
-
-
-
-
-
-Jax neural networks colab:
-
-intro to jax:
-
-https://drive.google.com/file/d/1woKQ4rR88A8qcxoIvYo2bmW8HblGbL_G/view?usp=sharing
-
-advanced jax:
-
-
-https://drive.google.com/file/d/1vz5TnnuSeVPxgOJ3AH35aM1oNI32jvWF/view?usp=sharing
