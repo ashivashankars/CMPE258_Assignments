@@ -38,16 +38,12 @@ deep-learning-assignment/
 ## 📓 Notebooks
 
 ### 1. 🏋️ Deep Learning Training Techniques
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BCs5uyoIzXAGOnHArgHh8ZkR-GdAaL6D?authuser=1)
-&nbsp;
-[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
-
 Covers the essential techniques used to train deep learning models effectively — including batch normalization, dropout, early stopping, and learning rate scheduling. Demonstrates how each technique impacts training stability and generalization.
 
 ---
 
 ### 2. 📊 Metrics for Classification — Fundamentals
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17VNph9cv37iuPg8jVMwHTRrKWEljud2A)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BCs5uyoIzXAGOnHArgHh8ZkR-GdAaL6D?authuser=1)
 &nbsp;
 [![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
 
@@ -56,7 +52,7 @@ Explores the core evaluation metrics for classification tasks: accuracy, precisi
 ---
 
 ### 3. 🎛️ Hyperparameter Tuning for Deep Learning
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14DCqhfnn2maebAOYusi-HaQZm31VV_cn?authuser=1)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17VNph9cv37iuPg8jVMwHTRrKWEljud2A)
 &nbsp;
 [![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
 
@@ -65,7 +61,7 @@ Introduces strategies for finding optimal model configurations — covering manu
 ---
 
 ### 4. ⚡ Optimizers for Deep Learning
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mhGK5iSAlHC3Ewtv0ROMVVi3HK3PDPoQ?authuser=1)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14DCqhfnn2maebAOYusi-HaQZm31VV_cn?authuser=1)
 &nbsp;
 [![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
 
@@ -74,7 +70,7 @@ Compares popular optimization algorithms — SGD, Momentum, RMSprop, Adam, and A
 ---
 
 ### 5. 🔁 Activation Functions for Deep Learning
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u_DdpAAwNLdBvsjCM45h4fZ59Xb1MtQ9?authuser=1)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mhGK5iSAlHC3Ewtv0ROMVVi3HK3PDPoQ?authuser=1)
 &nbsp;
 [![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
 
@@ -83,7 +79,7 @@ Visualizes and compares common activation functions — Sigmoid, Tanh, ReLU, Lea
 ---
 
 ### 6. 🖼️ Convolutional Neural Networks
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1911ZCMsIXRdKj4U7b1w-9_sWF7sW87fP?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u_DdpAAwNLdBvsjCM45h4fZ59Xb1MtQ9?authuser=1)
 &nbsp;
 [![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
 
@@ -92,7 +88,7 @@ Builds a CNN from scratch for image classification, walking through convolution 
 ---
 
 ### 7. 🏛️ Modern CNN Architectures & Transfer Learning
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_LINK_HERE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1911ZCMsIXRdKj4U7b1w-9_sWF7sW87fP?usp=sharing)
 &nbsp;
 [![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
 
