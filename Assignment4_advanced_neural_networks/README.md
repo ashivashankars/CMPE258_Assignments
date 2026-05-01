@@ -281,6 +281,3 @@ Throughout Part 1, each regularization notebook follows this structure:
 
 The goal is not just to show the technique works, but to understand *when* and *why* to reach for it.
 
----
-
-*Assignment by [Your Name] | Course: Deep Learning | Semester: [Semester]*
