@@ -38,7 +38,7 @@ deep-learning-assignment/
 ## 📓 Notebooks
 
 ### 1. 🏋️ Deep Learning Training Techniques
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLAB_LINK_HERE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BCs5uyoIzXAGOnHArgHh8ZkR-GdAaL6D?authuser=1)
 &nbsp;
 [![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
 
