@@ -77,8 +77,25 @@ See [reproduction/results/results_summary.md](./reproduction/results/results_sum
 
 ## 📁 Repository Structure
 
-[paste your folder tree here]
-
+```
+cartesian-cut-agentic-ai/
+│
+├── README.md                          ← Most important file
+├── article/
+│   └── cartesian_cut_article.html    ← Your Medium article (local copy)
+├── slides/
+│   └── cartesian_cut_slides.pdf      ← Slide deck (upload here too)
+├── video/
+│   └── presentation.mp4              ← 15–25 min recorded video
+│   └── youtube_link.txt              ← Just paste the YouTube URL in here
+├── reproduction/
+│   ├── README.md                     ← Explains what you reproduced & how to run
+│   ├── agent_demo.py                 ← Your autoresearch-based code
+│   └── results/
+│       └── results_summary.md        ← Your findings/outputs
+└── images/
+    └── (screenshots, diagrams)
+```
 ---
 
 ## 📚 References
