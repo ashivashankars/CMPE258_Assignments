@@ -1,8 +1,8 @@
 # The Cartesian Cut in Agentic AI
 ### A Review & Reproduction Study
 
-**Course:** [Your course name]
-**Author:** [Your name]
+**Course:** [CMPE258 Deep Learning]
+**Author:** [Archana Shivashankar]
 **Date:** May 2026
 
 ---
