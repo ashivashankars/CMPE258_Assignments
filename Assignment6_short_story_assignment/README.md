@@ -20,9 +20,9 @@
 
 | Deliverable | Link |
 |---|---|
-| 📰 Medium Article | [link here] |
-| 🎞️ Slide Deck (SlideShare) | [link here] |
-| 🎬 YouTube Video | [link here] |
+| 📰 Medium Article | [https://medium.com/@archana.shivashankar/the-cartesian-cut-in-agentic-ai-b5f49f811734] |
+| 🎞️ Slide Deck (SlideShare) | [https://docs.google.com/presentation/d/13H4gHmiUfHRuIcZjXZuPci_LUN8R6E8M_hiOF2B_9p4/edit?usp=sharing] |
+| 🎬 Video | [link here] |
 | 💻 Reproduction Code | ./reproduction/ |
 
 ---
@@ -87,7 +87,6 @@ cartesian-cut-agentic-ai/
 │   └── cartesian_cut_slides.pdf      ← Slide deck (upload here too)
 ├── video/
 │   └── presentation.mp4              ← 15–25 min recorded video
-│   └── youtube_link.txt              ← Just paste the YouTube URL in here
 ├── reproduction/
 │   ├── README.md                     ← Explains what you reproduced & how to run
 │   ├── agent_demo.py                 ← Your autoresearch-based code
