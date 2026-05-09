@@ -54,8 +54,9 @@ dl-assignment/
 ## 🎥 Video Walkthrough
 
 > **Full line-by-line video explanation** of every notebook is available at:  
-> `[Part 1 Video](https://drive.google.com/file/d/1Jqwt6RZr-tCGIecLLDdhB1zfJo3l8ez7/view?usp=drive_link)
->  [Part 2 Video](https://drive.google.com/file/d/1KBwpEKZ6Wq_4l6AIwWuFXMe1dEgrw_d5/view?usp=drive_link)`
+> [Part 1 Video](https://drive.google.com/file/d/1Jqwt6RZr-tCGIecLLDdhB1zfJo3l8ez7/view?usp=drive_link)
+> 
+> [Part 2 Video](https://drive.google.com/file/d/1KBwpEKZ6Wq_4l6AIwWuFXMe1dEgrw_d5/view?usp=drive_link)
 
 Each section of the video corresponds to numbered notebooks above. Timestamps are in the video description.
 
