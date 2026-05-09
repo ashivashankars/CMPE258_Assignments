@@ -22,7 +22,7 @@
 |---|---|
 | 📰 Medium Article | [https://medium.com/@archana.shivashankar/the-cartesian-cut-in-agentic-ai-b5f49f811734] |
 | 🎞️ Slide Deck (SlideShare) | [https://docs.google.com/presentation/d/13H4gHmiUfHRuIcZjXZuPci_LUN8R6E8M_hiOF2B_9p4/edit?usp=sharing] |
-| 🎬 Video | [link here] |
+| 🎬 Video | [https://drive.google.com/file/d/1pKd3Yd7g3K-V_nl7vOeUhW1idc5Tmkbo/view?usp=sharing] |
 | 💻 Reproduction Code |[https://github.com/ashivashankars/CMPE258_Assignments/tree/main/Assignment6_short_story_assignment/autoresearch] |
 
 ---
