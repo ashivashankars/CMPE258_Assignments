@@ -72,7 +72,7 @@ Compares popular optimization algorithms — SGD, Momentum, RMSprop, Adam, and A
 ### 4. 🔁 Activation Functions for Deep Learning
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mhGK5iSAlHC3Ewtv0ROMVVi3HK3PDPoQ?authuser=1)
 &nbsp;
-[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](https://drive.google.com/file/d/1_4E8Aya5k6qaAg91z-apSQ9i5-aatFHT/view?usp=drive_link)
 
 Visualizes and compares common activation functions — Sigmoid, Tanh, ReLU, Leaky ReLU, and GELU — covering their mathematical form, gradient behavior, and practical impact on network training. Addresses the vanishing gradient problem in context.
 
@@ -81,7 +81,7 @@ Visualizes and compares common activation functions — Sigmoid, Tanh, ReLU, Lea
 ### 5. 🖼️ Convolutional Neural Networks
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u_DdpAAwNLdBvsjCM45h4fZ59Xb1MtQ9?authuser=1)
 &nbsp;
-[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](https://drive.google.com/file/d/1JEnK5ifDIPfsSDAwmC4BByKVod__sA83/view?usp=drive_link)
 
 Builds a CNN from scratch for image classification, walking through convolution layers, pooling, padding, and stride. Visualizes feature maps to show what the network learns at each layer. Trained and evaluated on a standard image dataset.
 
@@ -90,7 +90,7 @@ Builds a CNN from scratch for image classification, walking through convolution 
 ### 6. 🏛️ Modern CNN Architectures & Transfer Learning
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1911ZCMsIXRdKj4U7b1w-9_sWF7sW87fP?usp=sharing)
 &nbsp;
-[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](https://drive.google.com/file/d/1tiZOR3OEdm_ewW2Tz-vKm-t6dtx_hTyG/view?usp=drive_link)
 
 High-level walkthrough of landmark CNN architectures — AlexNet, VGG, ResNet, and EfficientNet — covering the key innovations each introduced. Demonstrates transfer learning by fine-tuning a pretrained model on a custom dataset with minimal training time.
 
