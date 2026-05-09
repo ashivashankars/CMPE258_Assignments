@@ -87,29 +87,29 @@ The goal is to execute the colabs and then explain what is happening in the cola
 ### Master PyTorch from First Principles to Production-Ready Code
 📓 [pytorch_neural_networks_tutorial](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/pytorch_neural_networks_tutorial.ipynb)
 
-📹 Video:
+📹 [Video](https://drive.google.com/file/d/19H8UqeulLAQyi_LpUf5HzGeRVr_JdwMu/view?usp=drive_link)
 
 ### 11. Advanced pytorch
 📓 [pytorch_advanced_tutorial](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/pytorch_advanced_tutorial.ipynb)
 
-📹 Video:
+📹 [Video](https://drive.google.com/file/d/1EVW9Us4mBy0McurGXVCWmHTLebqV3pbq/view?usp=drive_link)
 
 ---
 ### 12. From NumPy to TensorFlow & Keras 3: A Complete Deep Learning Journey
 ### Master TensorFlow and Keras from First Principles to Production-Ready Code
 📓 [keras_tensorflow_neural_networks_tutorial](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/keras_tensorflow_neural_networks_tutorial.ipynb)
 
-📹 Video:
+📹 [Video](https://drive.google.com/file/d/1sxrzJ_iXOO9HAIQYyemEXz2lFRffb1B8/view?usp=drive_link)
 
 ### 13. Advanced tensorflow colab
 📓 [keras_tensorflow_advanced_tutorial](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/keras_tensorflow_advanced_tutorial.ipynb)
 
-📹 Video:
+📹 [Video](https://drive.google.com/file/d/10G-_HTn1xd9w9OQiIxIROokm6pU_XIlR/view?usp=drive_link)
 
 ### 14. Intro to numpy colab
 📓 [numpy_foundations_for_deep_learning](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/numpy_foundations_for_deep_learning.ipynb)
 
-📹 Video:
+📹 [Video](https://drive.google.com/file/d/1qnfXZHIRjusXUbZIf-Q4Y4kCaOuoabki/view?usp=drive_link)
 
 ---
 
@@ -117,11 +117,11 @@ The goal is to execute the colabs and then explain what is happening in the cola
 ### intro to jax
 📓 [jax_deep_learning_tutorial](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/jax_deep_learning_tutorial.ipynb)
 
-📹 Video:
+📹 [Video](https://drive.google.com/file/d/1OvqBzMHrEeCCrgo2PJJau-tIuhJG5XZw/view?usp=drive_link)
 
 ### 16. advanced jax
 📓 [jax_neural_networks_tutorial](https://github.com/ashivashankars/CMPE258_Assignments/blob/main/Assignment1_Execute_Colabs/jax_neural_networks_tutorial.ipynb)
 
-📹 Video:
+📹 [Video](https://drive.google.com/file/d/1zEpCGFs9Q0cQyOjUnt6Mu46t_OqKxC7n/view?usp=drive_link)
 
 
