@@ -45,7 +45,7 @@ Covers the essential techniques used to train deep learning models effectively �
 ### 1. 📊 Metrics for Classification — Fundamentals
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BCs5uyoIzXAGOnHArgHh8ZkR-GdAaL6D?authuser=1)
 &nbsp;
-[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=drive)](https://drive.google.com/file/d/1X16iwC16rN19XXtihRWT21q-1lb89Ft_/view?usp=drive_link)
 
 Explores the core evaluation metrics for classification tasks: accuracy, precision, recall, F1-score, ROC-AUC, and confusion matrices. Includes visual examples showing when each metric matters and why accuracy alone can be misleading.
 
