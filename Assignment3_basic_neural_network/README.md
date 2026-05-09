@@ -12,7 +12,7 @@ Build a neural network **from scratch using only NumPy** for non-linear regressi
 
 📓 [Open Colab](https://colab.research.google.com/drive/1HS3qbHArkqFlImT2KnF5pcMCz7ueHNvY?usp=sharing&authuser=1#scrollTo=EGkS6nN6dQaz)
 
-📹 Video:
+📹 [Video]()
 
 ---
 
@@ -22,7 +22,7 @@ Build a neural network using **PyTorch without using any built-in layer function
 
 📓 [Open Colab](https://colab.research.google.com/drive/1HS3qbHArkqFlImT2KnF5pcMCz7ueHNvY?usp=sharing&authuser=1#scrollTo=EGkS6nN6dQaz)
 
-📹 Video:
+📹 [Video]()
 
 ---
 
@@ -30,7 +30,8 @@ Build a neural network using **PyTorch without using any built-in layer function
 
 Build a neural network using **PyTorch built-in functionality** (modules, backprop, etc.).
 
-📹 Video:
+📓 [Open Colab](https://colab.research.google.com/drive/1HS3qbHArkqFlImT2KnF5pcMCz7ueHNvY?usp=sharing&authuser=1#scrollTo=EGkS6nN6dQaz)
+📹 [Video]()
 
 ---
 
@@ -38,31 +39,29 @@ Build a neural network using **PyTorch built-in functionality** (modules, backpr
 
 Build the same network using **PyTorch Lightning**.
 
-📹 Video:
+📓 [Open Colab](https://colab.research.google.com/drive/1HS3qbHArkqFlImT2KnF5pcMCz7ueHNvY?usp=sharing&authuser=1#scrollTo=EGkS6nN6dQaz)
+📹 [Video]()
 
 ---
 
 ## e) TensorFlow — Multiple Variants (Low-Level, API, Functional, Model, Built-in)
 
 📓 [Open Colab](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=KC5RgwGeBP-9)
-
-📹 Video:
+📹 [Video]()
 
 ---
 
 ### i) TensorFlow From Scratch (No High-Level API)
 
 📓 [Open Colab](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=KC5RgwGeBP-9)
-
-📹 Video:
+📹 [Video]()
 
 ---
 
 ### ii) TensorFlow with Built-in Layers
 
 📓 [Open Colab](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=WavMVtXGQk-z)
-
-📹 Video:
+📹 [Video]()
 
 ---
 
@@ -72,7 +71,7 @@ Build the same network using **PyTorch Lightning**.
 
 📓 [Open Colab (Part 2)](https://colab.research.google.com/drive/169PfzM0kvtA5UP4k6Sl1yCG9tsE2MLia?authuser=1#scrollTo=C_2FyZeXjHd1)
 
-📹 Video:
+📹 [Video]()
 
 ---
 
@@ -80,4 +79,4 @@ Build the same network using **PyTorch Lightning**.
 
 📓 [Reference: 4D Plot with Matplotlib](https://www.tutorialspoint.com/how-to-make-a-4d-plot-with-matplotlib-using-arbitrary-data)
 
-📹 Video:
+📹 [Video]()
