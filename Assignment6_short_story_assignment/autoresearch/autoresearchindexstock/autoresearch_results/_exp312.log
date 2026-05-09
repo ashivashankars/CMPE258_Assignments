@@ -1,0 +1,50 @@
+2026-05-03 05:03:10,594 [INFO] [run] exp 312  backbone=lstm  seq_len=35  end=2025-12-31
+2026-05-03 05:03:11,039 [INFO] [download] fetched 56 / 56 tickers
+C:\Users\evija\anaconda3\Lib\site-packages\pandas\core\arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+2026-05-03 05:03:11,496 [INFO] [features] dropping 26 post-2009 columns: xlre_logret_1d, xlre_logret_5d, xlre_logret_20d, xlre_ma20_z, xlc_logret_1d, xlc_logret_5d, xlc_logret_20d, xlc_ma20_z, vix9d_over_vix, vix_over_vix6m ...
+2026-05-03 05:03:11,509 [INFO] [features] 4777 rows × 205 features (after late-column drop)
+2026-05-03 05:03:11,521 [INFO] [data] feats=(4772, 205)  targets=(4772, 4)  range=2006-12-28..2025-12-22
+2026-05-03 05:03:11,548 [INFO] [splits] train=2573  val=673  test=1480  overlap=0/0/0
+2026-05-03 05:03:11,556 [INFO] [splits] train=2573  val=673  test=1480  overlap=0/0/0
+2026-05-03 05:03:11,577 [INFO] [splits] train=2573  val=673  test=1480  overlap=0/0/0
+2026-05-03 05:03:11,580 [INFO] [splits] {'train_rows': 2573, 'val_rows': 673, 'test_rows': 1480, 'violations': 0, 'purge_days': 90, 'embargo_days': 21, 'label_buffer_days': 10}
+[CPU SAFETY] Pinned to 4 P-core threads [0, 2, 4, 6] (WHEA errors on E-cores 16,17,24,25). Override with AUTORESEARCH_USE_ALL_CORES=1.
+[CPU SAFETY] Pinned to 4 P-core threads [0, 2, 4, 6] (WHEA errors on E-cores 16,17,24,25). Override with AUTORESEARCH_USE_ALL_CORES=1.
+Epoch 1/100  train=-1.803221  val=-2.707712  best=-2.707712  lr=1.00e-03  patience=0/15
+Epoch 2/100  train=-2.686153  val=-2.849076  best=-2.849076  lr=9.99e-04  patience=0/15
+Epoch 3/100  train=-2.824992  val=-2.856148  best=-2.856148  lr=9.98e-04  patience=0/15
+Epoch 4/100  train=-2.830589  val=-2.872950  best=-2.872950  lr=9.96e-04  patience=0/15
+Epoch 5/100  train=-2.880460  val=-2.799439  best=-2.872950  lr=9.94e-04  patience=1/15
+Epoch 6/100  train=-2.881432  val=-2.864710  best=-2.872950  lr=9.91e-04  patience=2/15
+Epoch 7/100  train=-2.923054  val=-2.857653  best=-2.872950  lr=9.88e-04  patience=3/15
+Epoch 8/100  train=-2.909110  val=-2.832530  best=-2.872950  lr=9.84e-04  patience=4/15
+Epoch 9/100  train=-2.938803  val=-2.854882  best=-2.872950  lr=9.80e-04  patience=5/15
+Epoch 10/100  train=-2.934994  val=-2.837584  best=-2.872950  lr=9.76e-04  patience=6/15
+Epoch 11/100  train=-2.944625  val=-2.871105  best=-2.872950  lr=9.70e-04  patience=7/15
+Epoch 12/100  train=-2.952012  val=-2.847642  best=-2.872950  lr=9.65e-04  patience=8/15
+Epoch 13/100  train=-2.956711  val=-2.835131  best=-2.872950  lr=9.59e-04  patience=9/15
+Epoch 14/100  train=-2.958455  val=-2.869797  best=-2.872950  lr=9.52e-04  patience=10/15
+Epoch 15/100  train=-2.956726  val=-2.789574  best=-2.872950  lr=9.46e-04  patience=11/15
+Epoch 16/100  train=-2.964576  val=-2.838677  best=-2.872950  lr=9.38e-04  patience=12/15
+Epoch 17/100  train=-2.965698  val=-2.861652  best=-2.872950  lr=9.30e-04  patience=13/15
+Epoch 18/100  train=-2.968825  val=-2.851423  best=-2.872950  lr=9.22e-04  patience=14/15
+Epoch 19/100  train=-2.969766  val=-2.874779  best=-2.874779  lr=9.14e-04  patience=0/15
+Epoch 20/100  train=-2.969389  val=-2.878894  best=-2.878894  lr=9.05e-04  patience=0/15
+Epoch 21/100  train=-2.974322  val=-2.820296  best=-2.878894  lr=8.95e-04  patience=1/15
+Epoch 22/100  train=-2.972261  val=-2.866018  best=-2.878894  lr=8.85e-04  patience=2/15
+Epoch 23/100  train=-2.973303  val=-2.860285  best=-2.878894  lr=8.75e-04  patience=3/15
+Epoch 24/100  train=-2.979355  val=-2.846626  best=-2.878894  lr=8.64e-04  patience=4/15
+Epoch 25/100  train=-2.979228  val=-2.862938  best=-2.878894  lr=8.54e-04  patience=5/15
+Epoch 26/100  train=-2.978343  val=-2.857578  best=-2.878894  lr=8.42e-04  patience=6/15
+Epoch 27/100  train=-2.976944  val=-2.863609  best=-2.878894  lr=8.31e-04  patience=7/15
+Epoch 28/100  train=-2.980770  val=-2.857595  best=-2.878894  lr=8.19e-04  patience=8/15
+Epoch 29/100  train=-2.980677  val=-2.861545  best=-2.878894  lr=8.06e-04  patience=9/15
+Epoch 30/100  train=-2.982972  val=-2.840303  best=-2.878894  lr=7.94e-04  patience=10/15
+Epoch 31/100  train=-2.983845  val=-2.859318  best=-2.878894  lr=7.81e-04  patience=11/15
+Epoch 32/100  train=-2.984286  val=-2.849825  best=-2.878894  lr=7.68e-04  patience=12/15
+Epoch 33/100  train=-2.985978  val=-2.866711  best=-2.878894  lr=7.55e-04  patience=13/15
+Epoch 34/100  train=-2.988109  val=-2.846846  best=-2.878894  lr=7.41e-04  patience=14/15
+Epoch 35/100  train=-2.987166  val=-2.845898  best=-2.878894  lr=7.27e-04  patience=15/15
+  Early stopping at epoch 35
+[exp 312] composite=-0.1304  A_sharpe=+0.8614  excess=-0.2551  B=-0.1500  D=+0.8614  BH=+1.1164  elapsed=78.0s  

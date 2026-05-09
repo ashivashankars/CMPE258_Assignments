@@ -1,0 +1,5 @@
+=== mamba dmamba s35 seed=42 ===
+[exp 326] composite=+0.4552  A_sharpe=+0.5552  excess=-0.5613  B=+1.3703  D=+0.5552  BH=+1.1164  elapsed=566.1s  
+=== mamba dmamba s35 seed=7 ===
+[exp 328] composite=-0.0052  A_sharpe=+0.1948  excess=-0.9216  B=-0.5788  D=+0.1948  BH=+1.1164  elapsed=643.9s  
+=== mamba dmamba s35 seed=2026 ===

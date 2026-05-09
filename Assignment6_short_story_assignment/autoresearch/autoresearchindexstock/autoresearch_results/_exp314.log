@@ -1,0 +1,36 @@
+2026-05-03 05:09:55,905 [INFO] [run] exp 314  backbone=lstm  seq_len=35  end=2025-12-31
+2026-05-03 05:09:56,273 [INFO] [download] fetched 56 / 56 tickers
+C:\Users\evija\anaconda3\Lib\site-packages\pandas\core\arraylike.py:399: RuntimeWarning: invalid value encountered in log
+  result = getattr(ufunc, method)(*inputs, **kwargs)
+2026-05-03 05:09:56,641 [INFO] [features] dropping 26 post-2009 columns: xlre_logret_1d, xlre_logret_5d, xlre_logret_20d, xlre_ma20_z, xlc_logret_1d, xlc_logret_5d, xlc_logret_20d, xlc_ma20_z, vix9d_over_vix, vix_over_vix6m ...
+2026-05-03 05:09:56,653 [INFO] [features] 4777 rows × 205 features (after late-column drop)
+2026-05-03 05:09:56,662 [INFO] [data] feats=(4772, 205)  targets=(4772, 4)  range=2006-12-28..2025-12-22
+2026-05-03 05:09:56,686 [INFO] [splits] train=2573  val=673  test=1480  overlap=0/0/0
+2026-05-03 05:09:56,693 [INFO] [splits] train=2573  val=673  test=1480  overlap=0/0/0
+2026-05-03 05:09:56,713 [INFO] [splits] train=2573  val=673  test=1480  overlap=0/0/0
+2026-05-03 05:09:56,716 [INFO] [splits] {'train_rows': 2573, 'val_rows': 673, 'test_rows': 1480, 'violations': 0, 'purge_days': 90, 'embargo_days': 21, 'label_buffer_days': 10}
+C:\Users\evija\anaconda3\Lib\site-packages\torch\nn\modules\rnn.py:123: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.1 and num_layers=1
+  warnings.warn(
+[CPU SAFETY] Pinned to 4 P-core threads [0, 2, 4, 6] (WHEA errors on E-cores 16,17,24,25). Override with AUTORESEARCH_USE_ALL_CORES=1.
+[CPU SAFETY] Pinned to 4 P-core threads [0, 2, 4, 6] (WHEA errors on E-cores 16,17,24,25). Override with AUTORESEARCH_USE_ALL_CORES=1.
+Epoch 1/100  train=-1.455370  val=-2.711859  best=-2.711859  lr=1.00e-03  patience=0/15
+Epoch 2/100  train=-2.688362  val=-2.890910  best=-2.890910  lr=9.99e-04  patience=0/15
+Epoch 3/100  train=-2.838744  val=-2.883548  best=-2.890910  lr=9.98e-04  patience=1/15
+Epoch 4/100  train=-2.858789  val=-2.890987  best=-2.890987  lr=9.96e-04  patience=0/15
+Epoch 5/100  train=-2.867410  val=-2.850430  best=-2.890987  lr=9.94e-04  patience=1/15
+Epoch 6/100  train=-2.898098  val=-2.881091  best=-2.890987  lr=9.91e-04  patience=2/15
+Epoch 7/100  train=-2.913334  val=-2.868007  best=-2.890987  lr=9.88e-04  patience=3/15
+Epoch 8/100  train=-2.907761  val=-2.806253  best=-2.890987  lr=9.84e-04  patience=4/15
+Epoch 9/100  train=-2.897069  val=-2.886613  best=-2.890987  lr=9.80e-04  patience=5/15
+Epoch 10/100  train=-2.926731  val=-2.855712  best=-2.890987  lr=9.76e-04  patience=6/15
+Epoch 11/100  train=-2.929922  val=-2.875416  best=-2.890987  lr=9.70e-04  patience=7/15
+Epoch 12/100  train=-2.928576  val=-2.876837  best=-2.890987  lr=9.65e-04  patience=8/15
+Epoch 13/100  train=-2.942427  val=-2.874388  best=-2.890987  lr=9.59e-04  patience=9/15
+Epoch 14/100  train=-2.947426  val=-2.875666  best=-2.890987  lr=9.52e-04  patience=10/15
+Epoch 15/100  train=-2.943024  val=-2.846550  best=-2.890987  lr=9.46e-04  patience=11/15
+Epoch 16/100  train=-2.952495  val=-2.831115  best=-2.890987  lr=9.38e-04  patience=12/15
+Epoch 17/100  train=-2.951186  val=-2.863572  best=-2.890987  lr=9.30e-04  patience=13/15
+Epoch 18/100  train=-2.960204  val=-2.867087  best=-2.890987  lr=9.22e-04  patience=14/15
+Epoch 19/100  train=-2.959886  val=-2.859746  best=-2.890987  lr=9.14e-04  patience=15/15
+  Early stopping at epoch 19
+[exp 314] composite=+0.1208  A_sharpe=+0.5230  excess=-0.5934  B=-0.1751  D=+0.5230  BH=+1.1164  elapsed=61.7s  
