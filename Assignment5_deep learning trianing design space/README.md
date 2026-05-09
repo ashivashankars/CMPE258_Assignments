@@ -54,7 +54,7 @@ Explores the core evaluation metrics for classification tasks: accuracy, precisi
 ### 2. 🎛️ Hyperparameter Tuning for Deep Learning
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17VNph9cv37iuPg8jVMwHTRrKWEljud2A)
 &nbsp;
-[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](https://drive.google.com/file/d/1PIY8OULT_2Hf-5-Xs6tHuvBnQvfLTjuG/view?usp=drive_link)
 
 Introduces strategies for finding optimal model configurations — covering manual search, grid search, random search, and a brief look at Bayesian optimization. Shows how tuning learning rate, batch size, and layer depth affects model performance.
 
@@ -63,7 +63,7 @@ Introduces strategies for finding optimal model configurations — covering manu
 ### 3. ⚡ Optimizers for Deep Learning
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14DCqhfnn2maebAOYusi-HaQZm31VV_cn?authuser=1)
 &nbsp;
-[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](https://drive.google.com/file/d/1D2w-Af8U3ApTaJd60NEgEQverxRNZ48J/view?usp=drive_link)
 
 Compares popular optimization algorithms — SGD, Momentum, RMSprop, Adam, and AdaGrad — with side-by-side training curves. Builds intuition for how each optimizer navigates the loss landscape and when to choose one over another.
 
