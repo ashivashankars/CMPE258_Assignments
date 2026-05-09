@@ -8,10 +8,10 @@ A curated portfolio of executed deep learning notebooks covering RNNs/LSTMs, NLP
 
 | # | Topic | Colab Notebook | YouTube Walkthrough |
 |---|-------|---------------|---------------------|
-| 1 | RNN & LSTM | [Open Colab](https://colab.research.google.com/drive/1uGPf1pUz_P0JIlpBqcPOJyHikmvO8uV2) | [▶ Video](#) *(recording in progress)* |
-| 2 | NLP Fundamentals | [Open Colab](https://colab.research.google.com/drive/129nxLYowmTdGpQGziABOYs7FpRqQmNsF) | [▶ Video](#) *(recording in progress)* |
-| 3 | Vision Transformers (ViT) | [Open Colab](https://colab.research.google.com/drive/1IQp0RU4w7DXRKlLITyYgYFLMntFvrvdx) | [▶ Video](#) *(recording in progress)* |
-| 4 | Graph Transformers | [Open Colab](https://colab.research.google.com/drive/1mOImVS1KcjpIFESouEemLeiN-Y-l4Whj) | [▶ Video](#) *(recording in progress)* |
+| 1 | RNN & LSTM | [Open Colab](https://colab.research.google.com/drive/1uGPf1pUz_P0JIlpBqcPOJyHikmvO8uV2) | [▶ Video](https://drive.google.com/file/d/1XbKNTvh5r14_S6xcvxe2EBB76PQrP-x-/view?usp=drive_link) |
+| 2 | NLP Fundamentals | [Open Colab](https://colab.research.google.com/drive/129nxLYowmTdGpQGziABOYs7FpRqQmNsF) | [▶ Video](https://drive.google.com/file/d/1BV10TWE1-3qsG74JaoGwYljdqsbmrIzu/view?usp=drive_link) |
+| 3 | Vision Transformers (ViT) | [Open Colab](https://colab.research.google.com/drive/1IQp0RU4w7DXRKlLITyYgYFLMntFvrvdx) | [▶ Video](https://drive.google.com/file/d/1Yy1vPY15sGdjBsv8ukqYFJGTJ2FhBW_c/view?usp=drive_link) |
+| 4 | Graph Transformers | [Open Colab](https://colab.research.google.com/drive/1mOImVS1KcjpIFESouEemLeiN-Y-l4Whj) | [▶ Video](https://drive.google.com/file/d/1R4UbGO3P23WmQUqJ9KRxPb7XjyzlC8eu/view?usp=drive_link) |
 
 > 📌 **Note:** Replace the `#` placeholders above with actual YouTube video URLs after recording and uploading each walkthrough.
 
