@@ -45,7 +45,7 @@ Covers the essential techniques used to train deep learning models effectively �
 ### 1. 📊 Metrics for Classification — Fundamentals
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BCs5uyoIzXAGOnHArgHh8ZkR-GdAaL6D?authuser=1)
 &nbsp;
-[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=drive)](https://drive.google.com/file/d/1X16iwC16rN19XXtihRWT21q-1lb89Ft_/view?usp=drive_link)
 
 Explores the core evaluation metrics for classification tasks: accuracy, precision, recall, F1-score, ROC-AUC, and confusion matrices. Includes visual examples showing when each metric matters and why accuracy alone can be misleading.
 
@@ -54,7 +54,7 @@ Explores the core evaluation metrics for classification tasks: accuracy, precisi
 ### 2. 🎛️ Hyperparameter Tuning for Deep Learning
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17VNph9cv37iuPg8jVMwHTRrKWEljud2A)
 &nbsp;
-[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](https://drive.google.com/file/d/1PIY8OULT_2Hf-5-Xs6tHuvBnQvfLTjuG/view?usp=drive_link)
 
 Introduces strategies for finding optimal model configurations — covering manual search, grid search, random search, and a brief look at Bayesian optimization. Shows how tuning learning rate, batch size, and layer depth affects model performance.
 
@@ -63,7 +63,7 @@ Introduces strategies for finding optimal model configurations — covering manu
 ### 3. ⚡ Optimizers for Deep Learning
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14DCqhfnn2maebAOYusi-HaQZm31VV_cn?authuser=1)
 &nbsp;
-[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](https://drive.google.com/file/d/1D2w-Af8U3ApTaJd60NEgEQverxRNZ48J/view?usp=drive_link)
 
 Compares popular optimization algorithms — SGD, Momentum, RMSprop, Adam, and AdaGrad — with side-by-side training curves. Builds intuition for how each optimizer navigates the loss landscape and when to choose one over another.
 
@@ -72,7 +72,7 @@ Compares popular optimization algorithms — SGD, Momentum, RMSprop, Adam, and A
 ### 4. 🔁 Activation Functions for Deep Learning
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mhGK5iSAlHC3Ewtv0ROMVVi3HK3PDPoQ?authuser=1)
 &nbsp;
-[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](https://drive.google.com/file/d/1_4E8Aya5k6qaAg91z-apSQ9i5-aatFHT/view?usp=drive_link)
 
 Visualizes and compares common activation functions — Sigmoid, Tanh, ReLU, Leaky ReLU, and GELU — covering their mathematical form, gradient behavior, and practical impact on network training. Addresses the vanishing gradient problem in context.
 
@@ -81,7 +81,7 @@ Visualizes and compares common activation functions — Sigmoid, Tanh, ReLU, Lea
 ### 5. 🖼️ Convolutional Neural Networks
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u_DdpAAwNLdBvsjCM45h4fZ59Xb1MtQ9?authuser=1)
 &nbsp;
-[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](https://drive.google.com/file/d/1JEnK5ifDIPfsSDAwmC4BByKVod__sA83/view?usp=drive_link)
 
 Builds a CNN from scratch for image classification, walking through convolution layers, pooling, padding, and stride. Visualizes feature maps to show what the network learns at each layer. Trained and evaluated on a standard image dataset.
 
@@ -90,7 +90,7 @@ Builds a CNN from scratch for image classification, walking through convolution 
 ### 6. 🏛️ Modern CNN Architectures & Transfer Learning
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1911ZCMsIXRdKj4U7b1w-9_sWF7sW87fP?usp=sharing)
 &nbsp;
-[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](VIDEO_LINK_HERE)
+[![Watch Video](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](https://drive.google.com/file/d/1tiZOR3OEdm_ewW2Tz-vKm-t6dtx_hTyG/view?usp=drive_link)
 
 High-level walkthrough of landmark CNN architectures — AlexNet, VGG, ResNet, and EfficientNet — covering the key innovations each introduced. Demonstrates transfer learning by fine-tuning a pretrained model on a custom dataset with minimal training time.
 
